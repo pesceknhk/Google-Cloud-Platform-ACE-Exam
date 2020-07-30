@@ -2,5 +2,7 @@
 All the necessary Flash cards
 
 # How to use?
-1. Click [https://pesceknhk.github.io/]
+1. Click [GCP-ACE-FLASH-CARDS] [1]
 2. Enjoy!!
+
+[1] : [https://pesceknhk.github.io/]

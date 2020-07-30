@@ -5,4 +5,4 @@ All the necessary Flash cards
 1. Click [GCP-ACE-FLASH-CARDS] [1]
 2. Enjoy!!
 
-[1] : [https://pesceknhk.github.io/]
+[1] : https://pesceknhk.github.io/

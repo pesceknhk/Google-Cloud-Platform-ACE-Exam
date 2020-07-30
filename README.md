@@ -4,4 +4,4 @@ All the necessary Flash cards
 # How to use?
 1. Checkout the repo.
 2. open the flash-cards.html
-Enjoy!!
+3. Enjoy!!

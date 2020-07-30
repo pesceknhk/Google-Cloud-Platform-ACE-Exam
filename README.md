@@ -2,6 +2,6 @@
 All the necessary Flash cards
 
 # How to use?
-Checkout the repo.
-open the flash-cards.html
+1. Checkout the repo.
+2. open the flash-cards.html
 Enjoy!!
